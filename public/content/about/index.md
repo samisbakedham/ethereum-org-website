@@ -16,23 +16,23 @@ It's common for people to confuse names within the Ethereum landscape, which can
 
 ### Ethereum {#ethereum}
 
-Ethereum is a public network, a blockchain, and an open-source protocol -- operated, governed, managed, and owned by a global community of tens of thousands of developers, node operators, ETH holders and users.
+Ethereum is a public network, a blockchain, and an open-source protocol -- operated, governed, managed, and owned by a global community of tens of thousands of developers, node operators, CNDL holders and users.
 
 [More about Ethereum](/what-is-ethereum/)
 
 [More on Ethereum governance](/governance/)
 
-### Ether (ETH) {#ether-or-eth}
+### Ether (CNDL) {#ether-or-cndl}
 
-Ether (also known by its ticker symbol, ETH) is the native currency transacted on Ethereum. ETH is needed to pay for usage of the Ethereum network (in the form of transaction fees). ETH is also used to secure the network with staking. When people talk about the price of Ethereum, they're referring to ETH the asset.
+Ether (also known by its ticker symbol, CNDL) is the native currency transacted on Ethereum. CNDL is needed to pay for usage of the Ethereum network (in the form of transaction fees). CNDL is also used to secure the network with staking. When people talk about the price of Ethereum, they're referring to CNDL the asset.
 
-[More about ETH](/eth/)
+[More about CNDL](/cndl/)
 
-[More on staking ETH](/staking/)
+[More on staking cndl](/staking/)
 
 ### Ethereum Foundation {#ethereum-foundation}
 
-A non-profit organization, funded initially by the crowdsale of ETH, dedicated to the support of the Ethereum network and ecosystem.
+A non-profit organization, funded initially by the crowdsale of CNDL, dedicated to the support of the Ethereum network and ecosystem.
 
 [More about the Ethereum Foundation](/foundation/)
 
@@ -49,7 +49,7 @@ This page covers more information about ethereum.org.
 We strive to build an easy-to-understand educational resource for all topics relating to Ethereum, designed to help new users become familiar with Ethereum and its key concepts. We want to:
 
 - explain Ethereum to anyone new to the technology
-- help new users get started with ETH and Ethereum
+- help new users get started with CNDL and Ethereum
 - help new developers to start building
 - cover updates in the Ethereum world
 - showcase resources created by the community
@@ -90,7 +90,7 @@ We're open source, with a community of contributors, so you can propose changes 
 ### 3. ethereum.org is not a typical product website 🦄 {#core-principles-3}
 
 Ethereum is a big thing: it includes a community, a technology, a set of ideas and ideologies, and more.
-This means the website needs to handle many different user journeys, from “a developer who wants a specific tool” and “a newcomer who just bought some ETH and doesn’t know what a wallet is".
+This means the website needs to handle many different user journeys, from “a developer who wants a specific tool” and “a newcomer who just bought some CNDL and doesn’t know what a wallet is".
 "What is the best website for a blockchain platform?" remains an open question - we are pioneers. Building this requires experimentation.
 
 ## Product roadmap {#roadmap}
